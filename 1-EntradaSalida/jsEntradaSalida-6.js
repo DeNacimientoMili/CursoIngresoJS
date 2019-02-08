@@ -12,6 +12,7 @@ function sumar()
 	primerNumero= parseInt(primerNumero);
 	segundoNumero=parseInt(segundoNumero);
 
-    alert(primerNumero + segundoNumero);
+
+	alert(primerNumero + segundoNumero);
 }
 
